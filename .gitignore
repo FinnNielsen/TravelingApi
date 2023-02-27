@@ -35,3 +35,7 @@ build/
 .vscode/
 
 newman
+
+# redocly
+node_modules/
+redoc-static.html
