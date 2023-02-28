@@ -1,4 +1,5 @@
 training:
+  - page: index.md
   - group: Hotel API
     expanded: false
     pages:
