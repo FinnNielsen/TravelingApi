@@ -1,0 +1,13 @@
+  - group: Main Page
+    expanded: true
+    pages:
+      - page: index.md
+  - group: Hotel API
+    expanded: false
+    pages:
+      - page: hotel/v1/hotel-v1.0.0.yaml
+      - page: hotel/v2/hotel-v2.0.0.yaml
+  - group: Travel API
+    expanded: false
+    pages:
+      - page: travel/v1/travel-v1.0.0.yaml
