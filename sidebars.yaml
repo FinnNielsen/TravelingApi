@@ -1,7 +1,4 @@
-  - group: Main Page
-    expanded: true
-    pages:
-      - page: index.md
+training:
   - group: Hotel API
     expanded: false
     pages:
