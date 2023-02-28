@@ -38,4 +38,5 @@ newman
 
 # redocly
 node_modules/
+public/
 redoc-static.html
