@@ -13,7 +13,9 @@ logo:
 toc:
   enable: true
 oasDefinitions:
-  traveling: ./travel/v1/travel-v1.0.0.yaml
+  travelv1: ./travel/v1/travel-v1.0.0.yaml
+  hotelv1: ./hotel/v1/hotel-v1.0.0.yaml
+  hotelv2: ./hotel/v2/hotel-v2.0.0.yaml
   # add links to definitions in our API registry by using a fully qualified URL.
 stylesheets:
   - https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700&display=swap
